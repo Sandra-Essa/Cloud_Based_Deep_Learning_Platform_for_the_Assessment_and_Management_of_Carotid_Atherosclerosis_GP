@@ -48,7 +48,9 @@ Its mission is to draw an automated contour which means localization of the arte
 ---
 2- PACS & DICOM Viewer Demo
 
-![](https://github.com/Sandra-Essa/Image_Filtering/blob/main/Images/High_Filter.png](https://github.com/Sandra-Essa/Cloud_Based_Deep_Learning_Platform_for_the_Assessment_and_Management_of_Carotid_Atherosclerosis_GP/blob/main/Media/High%20Level%20System%20Architecture.png)
+![](https://github.com/Sandra-Essa/Cloud_Based_Deep_Learning_Platform_for_the_Assessment_and_Management_of_Carotid_Atherosclerosis_GP/blob/main/Media/High%20Level%20System%20Architecture.png)
+
+
 
 ---
 ### Tools
