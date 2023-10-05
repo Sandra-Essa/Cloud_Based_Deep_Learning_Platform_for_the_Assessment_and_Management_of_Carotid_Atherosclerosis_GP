@@ -39,7 +39,7 @@ Its mission is to draw an automated contour which means localization of the arte
 
 ---
 
-### Demos
+## Demos
 
 
 1- High Level Architecture
@@ -50,7 +50,7 @@ Its mission is to draw an automated contour which means localization of the arte
 2- PACS & DICOM Viewer Demo : (https://www.youtube.com/watch?v=Qtvyj8N2V1M)
 
 ---
-### Tools
+## Tools
 
 - React.js
 - Django
