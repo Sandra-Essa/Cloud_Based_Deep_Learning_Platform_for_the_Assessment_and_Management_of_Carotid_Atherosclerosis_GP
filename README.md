@@ -39,7 +39,7 @@ Its mission is to draw an automated contour which means localization of the arte
 
 ---
 
-### Demos0
+### Demos
 ---
 1- High Level Architecture
 
